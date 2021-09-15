@@ -1,6 +1,6 @@
 module github.com/fmy1993/mychaincode/blockchain-real-estate
 
-go 1.14
+go 1.16
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible // indirect
