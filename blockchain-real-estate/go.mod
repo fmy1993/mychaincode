@@ -1,4 +1,4 @@
-module github.com/fmy1993/BCexplorer/chaincode/blockchain-real-estate
+module mychaincode
 
 go 1.14
 
@@ -22,3 +22,7 @@ require (
 	golang.org/x/net v0.0.0-20210423184538-5f58ad60dda6 // indirect
 	google.golang.org/grpc v1.37.0 // indirect
 )
+
+
+
+

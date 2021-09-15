@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/fmy1993/BCexplorer/chaincode/blockchain-real-estate/lib"
+	"github.com/fmy1993/mychaincode/blockchain-real-estate/lib"
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 	pb "github.com/hyperledger/fabric/protos/peer"
 	"testing"
