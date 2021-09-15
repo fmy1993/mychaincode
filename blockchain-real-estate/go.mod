@@ -1,4 +1,4 @@
-module mychaincode
+module github.com/fmy1993/mychaincode/blockchain-real-estate
 
 go 1.14
 
